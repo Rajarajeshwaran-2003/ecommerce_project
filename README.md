@@ -1,7 +1,7 @@
 # E-commerce Django Project
 
 ## Live Site
-🔗 https://your-app-name.onrender.com
+🔗 https://ecommerce-project-4ose.onrender.com
 
 ## Features
 - CRUD for Products, Categories, Users
